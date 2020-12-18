@@ -4,14 +4,14 @@ import { nanoid } from 'nanoid';
 export const headData = {
   title: 'Eren Ahmed Akyol', // e.g: 'Name | Developer'
   lang: 'tr', // e.g: en, es, fr, jp
-  description: 'Siteme hoşgeldiniz', // e.g: Welcome to my website
+  description: 'About me, Eren Ahmed Akyol portfolio page.', // e.g: Welcome to my website
 };
 
 // HERO DATA
 export const heroData = {
   title: "I'm",
   name: 'Eren Ahmed Akyol',
-  subtitle: 'Welcome to my world',
+  subtitle: 'Welcome to my about page.',
   cta: 'Continue',
 };
 
@@ -19,10 +19,10 @@ export const heroData = {
 export const aboutData = {
   img: 'profile.jpg',
   paragraphOne:
-    "My name is Eren Ahmed, I'm 16 years old and I'm a software developer for 4 years. I am the founder of RedMC Network for 1 year. It's a game server project for Minecraft related.",
+    "My name is Eren Ahmed, I'm 16 years old and I'm a software developer for 4 years. I am the founder of RedMC Network since 2019 which is a game server project for Minecraft related.",
   paragraphTwo:
-    'I love learning programming languages and making software. Sometimes for money but usually for hobby. My favorite programming language is Go. Already I know PHP, JavaScript, Python and little Ruby and C#',
-  paragraphThree: 'I working remotely now and I study for university.',
+    "I love learning programming languages and developing software. Sometimes It's for money but mostly for hobby. My favorite programming language is Go and also I know PHP, JavaScript, Python and I learn little bit Ruby and C# right now.",
+  paragraphThree: 'I work for a company as remote developer now and also study for university.',
   resume: 'https://www.resumemaker.online/en.php', // if no resume, the button will not show up
 };
 
