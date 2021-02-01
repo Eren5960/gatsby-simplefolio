@@ -38,6 +38,15 @@ export const projectsData = [
     url: 'https://redmc.me',
     repo: '', // if no repo, the button will not show up
   },
+  {
+    id: nanoid(),
+    img: 'ulasimsaati.png',
+    title: 'Ulaşım Saati',
+    info: 'The transportation hours project I made for Gavth Ltd.',
+    info2: 'Most cities have hours of transportation in it. Coded with GatsbyJS and Go.',
+    url: 'https://ulasimsaati.online',
+    repo: ''
+  }
 ];
 
 // CONTACT DATA
