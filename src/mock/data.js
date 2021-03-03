@@ -46,14 +46,23 @@ export const projectsData = [
     info2: 'Most cities have hours of transportation in it. Coded with GatsbyJS and Go.',
     url: 'https://ulasimsaati.online',
     repo: ''
-  }
+  },
+  {
+    id: nanoid(),
+    img: 'e2saglik.png',
+    title: 'e2 Sağlık',
+    info: 'It is a site that contains articles about health and surgeries. I made for Gavth Ltd.',
+    info2: 'WordPress and GatsbyJS combined!',
+    url: 'https://e2saglik.com',
+    repo: ''
+  },
 ];
 
 // CONTACT DATA
 export const contactData = {
   cta: '',
   btn: '',
-  email: 'ahmederen123@gmail.com',
+  email: 'eren@redmc.me',
 };
 
 // FOOTER DATA
@@ -62,7 +71,7 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'twitter',
-      url: 'https://twitter.com/alphaeren59',
+      url: 'https://twitter.com/xerenahmed',
     },
     {
       id: nanoid(),
